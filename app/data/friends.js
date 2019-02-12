@@ -20,4 +20,8 @@ var friends =[{
     name: "Bill Clinton", 
     photo: "http://specials-images.forbesimg.com/imageserve/5638e0f8e4b0ffa7afe6a0ab/280x425.jpg?fit=scale&background=000000",
     scores:[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+},{
+    name: "Blake Lively ", 
+    photo: "https://24smi.org/public/media/235x307/celebrity/2018/03/13/w2lyetrs6b4e-blake-lively.jpg",
+    scores:[2, 2, 2, 2, 2, 2, 2, 2, 2, 2]
 }];
